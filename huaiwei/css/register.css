@@ -1,0 +1,76 @@
+.head-background {
+  background-color: #333333;
+  height: 67px;
+}
+
+.head_center {
+  width: 960px;
+  height: 67px;
+  margin: 0px auto;
+  border: 0px;
+  position: relative;
+}
+
+.logo {
+  left: 2px;
+  float: left;
+  height: 33px;
+  margin-top: 12px;
+}
+
+.website-name {
+  color: white;
+  font-size: 20px;
+  height: 67px;
+  line-height: 50px;
+  font-family: "arial";
+  padding-top: 8px;
+}
+
+.main {
+  width: 100%;
+  margin: 0px auto;
+}
+
+body {
+  background: #f2f2f2;
+}
+
+.contect {
+  width: 960px;
+  margin: 0 auto;
+}
+
+.top {
+  padding-top: 20px;
+}
+
+.top li {
+  height: 35px;
+  float: left;
+  width: 136px;
+}
+
+.top li:nth-of-type(1) {
+  background: #B40707;
+  color: #fff;
+}
+
+.top li:nth-of-type(2) {
+  background: #ccc;
+  color: #fff;
+  margin-left: 10px;
+}
+
+.top p {
+  float: right;
+}
+
+.consent {
+  padding: 30px 270px;
+  font-size: 14px;
+  color: #333;
+  background: #fff;
+}
+
+/*# sourceMappingURL=register.css.map */
